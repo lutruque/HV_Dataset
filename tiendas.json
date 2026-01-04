@@ -1,5 +1,5 @@
 [
-  { "tienda": "amazon.com", "ventas": 4400, "ranking": 10 },
+  { "tienda": "amazon.com", "ventas": 4400, "ranking": 1 },
   { "tienda": "ebay.com", "ventas": 4200, "ranking": 2 },
   { "tienda": "aliexpress.com", "ventas": 3900, "ranking": 3 },
   { "tienda": "mercadolibre.com", "ventas": 3500, "ranking": 4 },
@@ -8,7 +8,8 @@
   { "tienda": "rakuten.com", "ventas": 2200, "ranking": 7 },
   { "tienda": "zalando.com", "ventas": 1800, "ranking": 8 },
   { "tienda": "shein.com", "ventas": 1400, "ranking": 9 },
-  { "tienda": "truque.com", "ventas": 900, "ranking": 1 }
+  { "tienda": "truque.com", "ventas": 900, "ranking": 10 }
 
 ]
+
 
