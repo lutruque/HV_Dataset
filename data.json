@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    { "id": "Ana", "group": 1 },
+    { "id": "Lu", "group": 1 }, 
+    { "id": "Carlos", "group": 1 },
+    { "id": "Marta", "group": 1 },
+
+    { "id": "Matemáticas", "group": 2 },
+    { "id": "Geometría", "group": 2 },
+
+    { "id": "Física", "group": 3 },
+    { "id": "Química", "group": 3 },
+
+    { "id": "Lenguaje", "group": 4 }
+  ],
+
+  "links": [
+    { "source": "Ana", "target": "Matemáticas" },
+    { "source": "Ana", "target": "Física" },
+    { "source": "Ana", "target": "Lenguaje" },
+
+    { "source": "Lu", "target": "Matemáticas" },
+    { "source": "Lu", "target": "Química" },
+    { "source": "Lu", "target": "Geometría" },
+
+    { "source": "Carlos", "target": "Física" },
+    { "source": "Carlos", "target": "Química" },
+    { "source": "Carlos", "target": "Matemáticas" },
+
+    { "source": "Marta", "target": "Lenguaje" },
+    { "source": "Marta", "target": "Geometría" },
+    { "source": "Marta", "target": "Matemáticas" }
+  ]
+}
