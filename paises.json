@@ -1,9 +1,12 @@
 {
-  "nodes": [{ "id": "España", "group": 1 }
-{ "id": "Francia", "group": 1 }
-{ "id": "UE", "group": 2 }
-{ "id": "OTAN", "group": 2 }
- ],
+  "nodes": [
+    { "id": "España", "group": 1 },
+    { "id": "Francia", "group": 1 },
+    { "id": "UE", "group": 2 },
+    { "id": "OTAN", "group": 2 }
+  ],
   "links": [
-{ "source": "España", "target": "UE" }
-{ "source": "España", "target": "OTAN" } ]}
+    { "source": "España", "target": "UE" },
+    { "source": "España", "target": "OTAN" }
+  ]
+}
