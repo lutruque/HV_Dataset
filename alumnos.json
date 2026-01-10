@@ -5,7 +5,10 @@
   { "alumno": "Juan", "nota": 6.8, "ranking":150 },
   { "alumno": "Ana", "nota": 6.2, "ranking": 180 },
   { "alumno": "Carlos", "nota": 5.5, "ranking": 200},
-  { "alumno": "Laura", "nota": 4.8, "ranking": 250},
+  { "alumno": "Sergio", "nota": 5.0, "ranking": 220},
+  { "alumno": "Pablo", "nota": 4.8, "ranking": 250},
+  { "alumno": "Angelica", "nota": 4.5, "ranking": 300},
+  { "alumno": "Laura", "nota": 4.0, "ranking": 350},
   { "alumno": "Sofía", "nota": 3.9, "ranking": 400 },
   { "alumno": "Miguel", "nota": 2.5, "ranking": 450 }
 ]
